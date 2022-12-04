@@ -21,7 +21,6 @@
   "git.branchPrefix": "feature/",
   "git.fetchOnPull": true,
   "git.showActionButton": {
-    "sync": false
   },
   "git.showPushSuccessNotification": true,
   "csharp.format.enable": true
